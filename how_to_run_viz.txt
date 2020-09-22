@@ -1,0 +1,3 @@
+For macos:
+Download source file
+build in Xcode
